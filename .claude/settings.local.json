@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node *)",
+      "Bash(grep -n \"selectedTicket &&\\\\|TicketSidebar\\\\|</div>\\\\s*$\" /Users/rebekahreeser/dev/issue-workflow/tickets.jsx)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173)"
+    ]
+  }
+}
